@@ -1,0 +1,20 @@
+. Modelo – Projeto Acadêmico Simples
+# 📌 Nome do Projeto
+
+## 📖 Descrição
+Projeto desenvolvido como parte da disciplina de [Nome da Disciplina], com o objetivo de aplicar conceitos de [tecnologia/tema].
+
+## 🎯 Objetivos
+- Aplicar conceitos de programação
+- Desenvolver lógica de resolução de problemas
+- Praticar versionamento com Git
+
+## 🛠️ Tecnologias Utilizadas
+- Linguagem: 
+- Framework (se houver): 
+- Banco de Dados: 
+
+## 🚀 Como Executar
+1. Clone o repositório:
+   ```bash
+   git clone <url-do-repositorio>
