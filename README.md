@@ -63,14 +63,14 @@ Organização de exercícios e práticas ao longo do curso.
 
 ## 🛠️ Como Utilizar os Modelos
 
-1. Escolha o modelo mais adequado ao seu projeto  
-2. Copie o conteúdo do arquivo README desejado  
-3. Cole no arquivo `README.md` do seu repositório  
-4. Edite as informações conforme seu projeto  
-5. Adicione melhorias como:
-   - Imagens
-   - Links
-   - Demonstrações
+🎯 1. Escolha o modelo mais adequado ao seu projeto  
+✍️ 2. Copie o conteúdo do arquivo README desejado  
+💼 3. Cole no arquivo `README.md` do seu repositório  
+📅 4. Edite as informações conforme seu projeto  
+➕ 5. Adicione melhorias como:
+   - Imagens 📸
+   - Links 🔗
+   - Demonstrações 👨‍💼
 
 ---
 
@@ -114,7 +114,7 @@ O README poderá ser avaliado com base em:
 ## 👨‍🏫 Orientação do Professor
 
 O uso adequado da documentação faz parte da formação profissional em tecnologia.  
-Este repositório deve ser utilizado como referência, **não como cópia**, sendo essencial a personalização conforme cada projeto.
+Este repositório deve ser utilizado como referência, **não como cópia**, sendo essencial a personalização conforme cada projeto. Deixe sua marca, faça do jeito, crie, organize, faça diferente.
 
 ---
 
@@ -136,6 +136,6 @@ Alunos do curso Técnico em Desenvolvimento de Sistemas
 ---
 
 ## 📅 Disciplina
-Versionamento de Código
+Versionamento de Código e Sistemas de Mensageria
 
 ---
