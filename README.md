@@ -2,11 +2,19 @@
 Título: Exemplos de Formatação de READ.ME para o github - portfólio profissional
 
 # 📚 Repositório de Modelos de README  
-## Professor: Luiz Angelo de Oliveira
+## Autor: Prof. Luiz Angelo de Oliveira
+
+### Sobre o autor:
+Professor e Coordenador de Curso
 💻 Curso: Técnico em Desenvolvimento de Sistemas
 📔📕 Escola Técnica Estadual Professor Fausto Mazzola
 📔📕 Escola Estadual Professor João Teixeira de Araújo
 👥 Parceria SEDUC-SP e Centro Paula Souza
+🏙️ Avaré-SP
+
+Professor e Coordenador de Curso
+💻 Curso: Engenharia da Computação 
+🧑‍💻🎓 FEAP Faculdade de Engenharia e Administração Paulista
 🏙️ Avaré-SP
 
 ---
@@ -138,14 +146,27 @@ Alunos do curso Técnico em Desenvolvimento de Sistemas
 
 ---
 
-Curso: Técnico em Desenvolvimento de Sistemas  
+# Curso: Técnico em Desenvolvimento de Sistemas 
+## Coordenador: Prof Luiz Angelo de Oliveira
+
 # 🎓 Perfis dos professores da ETEC-JTA
 ## Professor: Marcos Scorzato - https://github.com/marcos-mass13
 ## Disciplinas: Programação Front End, Programação Back End
 
+## Professora: Dayane Gomes -
+## Disciplina: Modelagem de Banco de Dados
+
 ## Professor: Ricardo Giantomasso - https://github.com/ricgiantomaso
 ## Disciplina: Versionamento de Código e Sistemas de Mensageria
 
-## Professor: João Felipe Tunuchi -
+## Professor: João Felipe Tunuchi - https://github.com/JoaoTunuchi
 ## Disciplina: Projeto Multi Disciplinar
+
+## Professora: Nicole Esther - https://github.com/MsPatronum
+## Disciplina: Programação Mobile
+
+## Professor: Luiz Angelo de Oliveira - https:/github.com/profluizangelo
+## Disciplina: Inteligência Artificial 
+
+
 ---
