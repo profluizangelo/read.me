@@ -2,9 +2,12 @@
 Título: Exemplos de Formatação de READ.ME para o github - portfólio profissional
 
 # 📚 Repositório de Modelos de README  
-## Disciplina: Versionamento de Código  
 ## Professor: Luiz Angelo de Oliveira
-Curso: Técnico em Desenvolvimento de Sistemas  
+💻 Curso: Técnico em Desenvolvimento de Sistemas
+📔📕 Escola Técnica Estadual Professor Fausto Mazzola
+📔📕 Escola Estadual Professor João Teixeira de Araújo
+👥 Parceria SEDUC-SP e Centro Paula Souza
+🏙️ Avaré-SP
 
 ---
 
@@ -135,7 +138,14 @@ Alunos do curso Técnico em Desenvolvimento de Sistemas
 
 ---
 
-## 📅 Disciplina
-Versionamento de Código e Sistemas de Mensageria
+Curso: Técnico em Desenvolvimento de Sistemas  
+# 🎓 Perfis dos professores da ETEC-JTA
+## Professor: Marcos Scorzato - https://github.com/marcos-mass13
+## Disciplinas: Programação Front End, Programação Back End
 
+## Professor: Ricardo Giantomasso - https://github.com/ricgiantomaso
+## Disciplina: Versionamento de Código e Sistemas de Mensageria
+
+## Professor: João Felipe Tunuchi -
+## Disciplina: Projeto Multi Disciplinar
 ---
