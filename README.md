@@ -133,16 +133,16 @@ Este repositório deve ser utilizado como referência, **não como cópia**, sen
 
 Projetos bem documentados demonstram:
 
-- Organização  
-- Profissionalismo  
-- Capacidade de comunicação técnica  
+🛅 Organização  
+💼 Profissionalismo  
+📑 Capacidade de comunicação técnica  
 
 Essas são habilidades altamente valorizadas no mercado de trabalho.
 
 ---
 
 ## 👨‍🎓 Público-alvo
-Alunos do curso Técnico em Desenvolvimento de Sistemas
+Alunos do curso Técnico em Desenvolvimento de Sistemas, demais alunos das áreas de tecnologia, devops, Programação e Computação. 
 
 ---
 
@@ -150,22 +150,28 @@ Alunos do curso Técnico em Desenvolvimento de Sistemas
 ## Coordenador: Prof Luiz Angelo de Oliveira
 
 # 🎓 Perfis dos professores da ETEC-JTA
-## Professor: Marcos Scorzato - https://github.com/marcos-mass13
+## Professor: Marcos Scorzato - 
+⛓️‍💥 https://github.com/marcos-mass13
 ## Disciplinas: Programação Front End, Programação Back End
 
-## Professora: Dayane Gomes -
+## Professora: Dayane Gomes - 
+⛓️‍💥https://github.com/dayanevazgomes/dayanevazgomes
 ## Disciplina: Modelagem de Banco de Dados
 
-## Professor: Ricardo Giantomasso - https://github.com/ricgiantomaso
+## Professor: Ricardo Giantomasso - 
+⛓️‍💥 https://github.com/ricgiantomaso
 ## Disciplina: Versionamento de Código e Sistemas de Mensageria
 
-## Professor: João Felipe Tunuchi - https://github.com/JoaoTunuchi
+## Professor: João Felipe Tunuchi - 
+⛓️‍💥 https://github.com/JoaoTunuchi
 ## Disciplina: Projeto Multi Disciplinar
 
-## Professora: Nicole Esther - https://github.com/MsPatronum
+## Professora: Nicole Esther - 
+⛓️‍💥 https://github.com/MsPatronum
 ## Disciplina: Programação Mobile
 
-## Professor: Luiz Angelo de Oliveira - https:/github.com/profluizangelo
+## Professor: Luiz Angelo de Oliveira - 
+⛓️‍💥https:/github.com/profluizangelo
 ## Disciplina: Inteligência Artificial 
 
 
